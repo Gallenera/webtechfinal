@@ -25,10 +25,3 @@
 .me-6 {
   margin-right: 242px;
 }
-
-.scroll-to-top {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 999;
-}
