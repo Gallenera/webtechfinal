@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webtechfinal/static/css/main.a54060d7.css",
+    "main.js": "/webtechfinal/static/js/main.8857ee17.js",
+    "index.html": "/webtechfinal/index.html",
+    "main.a54060d7.css.map": "/webtechfinal/static/css/main.a54060d7.css.map",
+    "main.8857ee17.js.map": "/webtechfinal/static/js/main.8857ee17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54060d7.css",
+    "static/js/main.8857ee17.js"
+  ]
+}
